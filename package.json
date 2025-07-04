@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "figlet": "^1.8.0",
+    "method-override": "^3.0.0",
+    "mysql2": "^3.14.1",
+    "random-word": "^3.0.0",
+    "random-words": "^2.0.1",
+    "uuid": "^11.1.0"
+  },
+  "name": "bkd2",
+  "version": "1.0.0",
+  "main": "hh.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "payel",
+  "license": "ISC",
+  "devDependencies": {},
+  "description": ""
+}
